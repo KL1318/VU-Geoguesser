@@ -10,4 +10,13 @@ body {
     margin: 0%;
     padding: 0%;
     background-color: var(--beige-100);
+    font-family: sans-serif;
+}
+
+
+
+
+footer {
+    padding: 4%;
+    text-align: center;
 }
