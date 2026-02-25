@@ -1,0 +1,13 @@
+:root {
+    --VU-blue-100: #0080c8;
+    --VU-blue-80: #0066a0;
+    --beige-100: #fbf9f6;
+    --black: #000000;
+}
+
+html,
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: var(--beige-100);
+}
